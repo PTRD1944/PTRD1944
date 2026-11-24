@@ -8,6 +8,7 @@
 * 📫 ช่องทางติดต่อ: **[kn0899th@gmail.com]**
 
 ---
+[img](https://tse2.mm.bing.net/th/id/OIP.qvU6JPh8XCVABWIg75SwvAHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
 
 ### 🤝 ช่องทางติดตามและติดต่อ (Connect with me)
 Ken0899th@gmail.com , Rewit.k@ku.th
