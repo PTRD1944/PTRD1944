@@ -1,16 +1,28 @@
-## Hi there 👋
+# สวัสดีครับ ผม [rewit / ken] 👋
 
-<!--
-**PTRD1944/PTRD1944** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- แบนเนอร์ต้อนรับ (เลือกใช้หรือลบทิ้งได้) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
 
-Here are some ideas to get you started:
+### 👨‍💻 เกี่ยวกับผม (About Me)
+* 🔭 ปัจจุบันกำลังทำโปรเจกต์เกี่ยวกับ **[ Web Application Test]**
+* 🌱 กำลังเรียนรู้เพิ่มเติมเรื่อง **[AI]**
+* 👯 สนใจร่วมทำโปรเจกต์ Open Source หรือแลกเปลี่ยนความรู้ด้าน **[ Data]**
+* 💬 สอบถามหรือพูดคุยกับผมได้เรื่อง **[โปรอกรม]**
+* 📫 ช่องทางติดต่อ: **[อีเมลของคุณ เช่น ekn0899th@gmail.com]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ เทคโนโลยีและเครื่องมือที่ใช้ (Tech Stack)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,git,github,vscode,figma" />
+</p>
+### 📊 สถิติบน GitHub (GitHub Stats)
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+---
+
+### 🤝 ช่องทางติดตามและติดต่อ (Connect with me)
+Ken0899th@gmail.com , Rewit.k@ku.th
