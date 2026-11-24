@@ -4,11 +4,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
 
 ### 👨‍💻 เกี่ยวกับผม (About Me)
-* 🔭 ปัจจุบันกำลังทำโปรเจกต์เกี่ยวกับ **[ Web Application Test]**
+* 🔭 ปัจจุบันกำลังทำโปรเจกต์เกี่ยวกับ **[HTML,CSS,Javascipt]**
 * 🌱 กำลังเรียนรู้เพิ่มเติมเรื่อง **[AI]**
-* 👯 สนใจร่วมทำโปรเจกต์ Open Source หรือแลกเปลี่ยนความรู้ด้าน **[ Data]**
+* 👯 สนใจร่วมทำโปรเจกต์ Open Source หรือแลกเปลี่ยนความรู้ด้าน **[Data,ai]**
 * 💬 สอบถามหรือพูดคุยกับผมได้เรื่อง **[โปรอกรม]**
-* 📫 ช่องทางติดต่อ: **[อีเมลของคุณ เช่น ekn0899th@gmail.com]**
+* 📫 ช่องทางติดต่อ: **[kn0899th@gmail.com]**
 
 ---
 
